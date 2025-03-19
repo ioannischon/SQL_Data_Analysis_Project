@@ -8,11 +8,12 @@ You can find the first part in this link: https://github.com/ioannischon/Data_Wa
 After the completion of the Data Warehouse Project, the final model of the Database, is consisted of three Tables with the type of Views. 
 This model is considered bussiness friendly and it is adjusted on the needs of todays most useful and demanding practices in Data Exploratory & Analysis. 
 
+![Final Data Model](https://github.com/user-attachments/assets/9a2dcba7-e993-449e-8a87-cda5bdb50a76)
 
-![Final Data Model](https://github.com/user-attachments/assets/bc91a673-90ab-43df-95c3-19b49b2060cd)
 
 
 Firstly, is is conducted an Exploratory Data Analysis (EDA) to get familiar with the Data and find the key values & tendencies, on which a further analysis will be prepared. 
 These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more. 
 This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database.
 Eventually, a full bussiness report is built, based on all those processes. This report can finally be used in a BI tool to create a dashboard for the stakeholders and the managers of the bussiness. 
+
