@@ -12,8 +12,11 @@ This model is considered bussiness friendly and it is adjusted on the needs of t
 
 
 
-Firstly, is is conducted an Exploratory Data Analysis (EDA) to get familiar with the Data and find the key values & tendencies, on which a further analysis will be prepared. 
+Firstly, an Exploratory Data Analysis (EDA) is conducted to get familiar with the Data and find the key values & tendencies, on which a further analysis will be prepared. 
+As a second step, more advanced analytics are implemented to show all the useful bussiness insights, that are necessary for smart and right decisions.
+
 These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more. 
 This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database.
+
 Eventually, a full bussiness report is built, based on all those processes. This report can finally be used in a BI tool to create a dashboard for the stakeholders and the managers of the bussiness. 
 
