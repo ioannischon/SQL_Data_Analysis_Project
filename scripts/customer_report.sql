@@ -66,7 +66,7 @@ CREATE VIEW gold.customer_report AS
 			WHEN customer_age BETWEEN 20 AND 29 THEN '20-29'
 			WHEN customer_age BETWEEN 30 AND 39 THEN '30-39'
 			WHEN customer_age BETWEEN 40 AND 49 THEN '40-49'
-			WHEN customer_age BETWEEN 40 AND 49 THEN '50-59'
+			WHEN customer_age BETWEEN 50 AND 59 THEN '50-59'
 			ELSE 'ABOVE 60'
 		END AS age_group,
 		CASE 
